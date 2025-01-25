@@ -1,4 +1,4 @@
-*The Economist updated their website and this plugin no longer works.*
+**The Economist updated their website and this plugin no longer works.**
 
 
 # ecommunism
