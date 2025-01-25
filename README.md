@@ -1,5 +1,5 @@
-DEPRECATED. The Economist updated their website and the plugin no longer works.
------------------------
+*The Economist updated their website and this plugin no longer works.*
+
 
 # ecommunism
 A Google Chrome plugin to bypass the paywall blocking access to The Economist articles.
